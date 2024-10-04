@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page.master.cs" Inherits="SimuladorSeguros.Page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Simulador de Seguros" />
+    <title>Simulador de Seguros</title>
+    <link rel="shortcut icon" href="./assets/handshake-regular.svg" />
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="flex-grow-1"">
+            <header>
+                <h1 class="text-center mb-4 mt-xl-5 font-weight-bold">Simulador de Seguros</h1>
+            </header>
+            <section>
+                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            </section>
+        </div>
+    </form>
+
+
+    <footer class="text-center no-print">
+        <div class="text-center p-3">
+            <p class="text-muted">© 2024 Desenvolvido por Nayla Hilana</p>
+        </div>
+    </footer>
+</body>
+</html>
