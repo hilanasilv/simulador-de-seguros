@@ -74,11 +74,8 @@
     <Content Include="Form.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Result.aspx" />
-    <None Include="Scripts\jquery-3.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.1.js" />
     <Content Include="Scripts\jquery-3.7.1.min.js" />
-    <Content Include="Scripts\jquery-3.7.1.slim.js" />
-    <Content Include="Scripts\jquery-3.7.1.slim.min.js" />
     <Content Include="styles\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -112,7 +109,6 @@
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Page.Master" />
-    <Content Include="Scripts\jquery-3.7.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.7.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
