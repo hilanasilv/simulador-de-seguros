@@ -1,0 +1,14 @@
+# Pastas de build
+bin/
+obj/
+.vs/
+
+# Arquivos de configuração do Visual Studio
+*.csproj.user
+*.suo
+*.user
+
+# Arquivos de configuração de build
+Web.Debug.config
+Web.Release.config
+
