@@ -40,6 +40,21 @@ Este projeto é um **Simulador de Seguros** desenvolvido em **.NET Framework**. 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius:4px"/>
 </div>
 
----
+## Como Rodar o Projeto
+
+Para rodar o projeto localmente, siga os seguintes passos:
+
+1. **Pré-requisito:**
+   - Certifique-se de ter o **Visual Studio** instalado em seu computador com o **.NET Framework 4.8**.
+
+2. **Clonar o Repositório:**
+   ```bash
+   git clone https://github.com/hilanasilv/simulador-de-seguros.git
+   ```
+
+3. **Abrir o Projeto:**
+   - No Visual Studio, vá até **Arquivo > Abrir > Projeto/Solução** e selecione o arquivo `.sln` do projeto.
+
+#
 
 <p align=center>Desenvolvido por Nayla Hilana</p>
