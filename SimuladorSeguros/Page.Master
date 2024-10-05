@@ -5,7 +5,9 @@
 <html>
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Simulador de Seguros" />
+    <meta name="keywords" content="simulador, seguro, cálculo" />
     <title>Simulador de Seguros</title>
     <link rel="shortcut icon" href="./assets/handshake-regular.svg" />
     <link rel="stylesheet" href="./styles/style.css" />

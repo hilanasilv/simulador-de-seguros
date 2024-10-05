@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Page.Master" AutoEventWireup="true" CodeBehind="Result.aspx.cs" Inherits="SimuladorSeguros.Result" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Resultado da simulação" />
     <link rel="stylesheet" href="./styles/style.css" />
 </asp:Content>
